@@ -56,7 +56,7 @@
 <a href="https://jkschies.itch.io/scientists-last-stand">
   <img src="https://img.shields.io/badge/Play-Scientists'%20Last%20Stand-FF?style=for-the-badge&logo=itch-dot-io&logoColor=black" />
 </a>
-<a href="https://jkschies.itch.io/scientists-last-stand">
+<a href="https://jkschies.itch.io/pistolpete">
   <img src="https://img.shields.io/badge/Play-Pistol%20Pete-FF?style=for-the-badge&logo=itch-dot-io&logoColor=black" />
 </a>
 </div>
