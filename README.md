@@ -9,8 +9,8 @@
 
 <div align="center">
   <h3>👨‍💻 Upcoming Software Developer</h3>
-  <div align="left" style="background-color: #0d1117; padding: 15px; border-radius: 6px;"  >
-    <p style="color: #00FF00; font-family: Fira+Code">
+  <div align="left" style="background-color: #0d1117 !important; padding: 15px !important; border-radius: 6px !important;">
+    <p style="color: #00FF00 !important; font-family: 'Fira+Code', !important; margin: 0 !important;">
     developer@linux: ~ $ whoami <br />
     Jonas Schiessl <br />
     developer@linux: ~ $ pwd  <br>
@@ -18,7 +18,8 @@
     developer@linux: ~ $ cat skills.txt <br>
     JavaScript | Java | Python | C | Swift <br>
     developer@linux: ~ $ <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&size=16&vCenter=true&width=10&height=18&duration=1500&lines=█;█" />
-  </div>
+    </p>
+</div>
   <hr>
   <p>
   🎯 Current Focus: Building out my Portfolio <br>
