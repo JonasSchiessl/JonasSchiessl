@@ -12,14 +12,16 @@
   <img src="https://iili.io/FYY3bI4.gif" alt="Terminal Animation" width="600" />
 
 </div>
-  <hr>
-  
-🔭 Currently working on my portfolio and masters applications
-🌱 Learning algorithms and data structures
-👯 Looking to find an opportunity to apply my skills
-🤔 Exploring new work opportunities
-💬 Ask me about JavaScript, React, Node.js, Swift
+  <br>
+  <p>
+🔭 Currently working on my portfolio and masters applications <br>
+🌱 Learning algorithms and data structures <br>
+👯 Looking to find an opportunity to apply my skills <br>
+🤔 Exploring new work opportunities <br>
+💬 Ask me about JavaScript, React, Node.js, Swift <br>
 ⚡ Fun fact: The first computer bug was an actual bug
+</p>
+
  <br>
  <div align="center"> 
   <a href="mailto:jonasschiessl.personal@gmail.com">
