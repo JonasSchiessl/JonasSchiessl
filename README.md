@@ -1,30 +1,35 @@
-Hi there! 👋 I'm Jonas
-<div align="center">
-Show Image
+<div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JonasSchiessl.JonasSchiessl" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonas!;" />
+</h1>
+<hr />
 </div>
-🚀 About Me
-<div align="center">
-  
-  <h3>👨‍💻 Developer Profile</h3>
-  <p>
-  bash$ whoami
-  Jonas Schiessl
-  $ pwd  
-  /home/bay-area/usa
-  $ cat skills.txt
-  JavaScript | Java | Python | C | Swift
-  $ echo $MOTTO
-  "Code with passion, debug with patience"
-  🎯 Current Focus: Building amazing web experiences
-  🔥 Passion: Full-stack development & mobile apps
-  🎨 Design Philosophy: Crafting beautiful UIs with modern frameworks
-  🐛 Fun Fact: I code with my mouse and I'm proud of it!
-  </p>
 
+<div align="center">
+  <h3>👨‍💻 Upcoming Software Developer</h3>
+  <div align="left" style="background-color: #0d1117; padding: 15px; border-radius: 6px;"  >
+    <p style="color: #00FF00; font-family: Fira+Code">
+    developer@linux: ~ $ whoami <br />
+    Jonas Schiessl <br />
+    developer@linux: ~ $ pwd  <br>
+    /home/bay-area/usa <br>
+    developer@linux: ~ $ cat skills.txt <br>
+    JavaScript | Java | Python | C | Swift <br>
+    developer@linux: ~ $ <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&size=16&vCenter=true&width=10&height=18&duration=1500&lines=█;█" />
+  </div>
+  <hr>
+  <p>
+  🎯 Current Focus: Building out my Portfolio <br>
+  🔥 Passion: Full-stack development & games <br>
+  🎨 Design Philosophy: Crafting beautiful UIs with modern frameworks <br>
+  🐛 Fun Fact: I code with my mouse and I'm proud of it! <br>
+  </p>
 </div>
 
 🛠️ Tech Stack
+
 <div align="center">
 Languages
 Show Image
@@ -50,7 +55,6 @@ Show Image
 <div align="center">
 Show Image
 
-
 💼 What I'm Up To
 🔭 Currently working on [Your Current Project]
 🌱 Learning [Technology you're learning]
@@ -60,6 +64,7 @@ Show Image
 📫 Reach me at: your.email@example.com
 ⚡ Fun fact: [Your fun fact]
 🌐 Connect With Me
+
 <div align="center">
 Show Image
 Show Image
