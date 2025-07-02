@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JonasSchiessl.JonasSchiessl" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=00FF00&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonas!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=FFFFFF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonas!;" />
 </h1>
 <hr />
 </div>
