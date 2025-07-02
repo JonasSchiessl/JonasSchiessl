@@ -2,22 +2,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JonasSchiessl.JonasSchiessl" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonas!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=00FF00&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonas!;" />
 </h1>
 <hr />
 </div>
 
 <div align="center">
   <h3>👨‍💻 Upcoming Software Developer</h3>
-  <div align="left" style="background-color: #0d1117 !important; padding: 15px !important; border-radius: 6px !important;">
-    <p style="color: #00FF00 !important; font-family: 'Fira+Code', !important; margin: 0 !important;">
+  <div align = "left">
+    <p>
     developer@linux: ~ $ whoami <br />
     Jonas Schiessl <br />
     developer@linux: ~ $ pwd  <br>
     /home/bay-area/usa <br>
     developer@linux: ~ $ cat skills.txt <br>
     JavaScript | Java | Python | C | Swift <br>
-    developer@linux: ~ $ <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&size=16&vCenter=true&width=10&height=18&duration=1500&lines=█;█" />
+    developer@linux: ~ $ <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=FFFFFF&size=16&vCenter=true&width=10&height=18&duration=1500&lines=█;█" />
     </p>
 </div>
   <hr>
