@@ -1,8 +1,7 @@
 <div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JonasSchiessl.JonasSchiessl" />
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JonasSchiessl.JonasSchiessl" /> <br>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00FF00&size=35&center=true&vCenter=true&color=00FF00&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonas!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00FF00&size=35&center=true&vCenter=true&color=00FF00&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Hello+World!;" />
 </h1>
 <hr />
 </div>
@@ -22,7 +21,7 @@
   </p>
 </div>
 
-🛠️ Tech Stack
+<h3> 🛠️ Tech Stack </h3>
 
 <div align="center">
 Languages
@@ -38,8 +37,12 @@ Tools & Platforms
 Show Image
 
 </div>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JonasSchiessl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasSchiessl&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></div>
+<h3>📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonasSchiessl&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonasSchiessl&bg_color=0d1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 🏆 GitHub Trophies
 <div align="center">
 Show Image
@@ -48,8 +51,10 @@ Show Image
 🎯 Featured Projects
 <div align="center">
 Show Image
+</div>
 
-💼 What I'm Up To
+<h3>💼 What I'm Up To</h3>
+<div>
 🔭 Currently working on [Your Current Project]
 🌱 Learning [Technology you're learning]
 👯 Looking to collaborate on Open Source Projects
@@ -58,26 +63,14 @@ Show Image
 📫 Reach me at: your.email@example.com
 ⚡ Fun fact: [Your fun fact]
 🌐 Connect With Me
-
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
+</div>
 
 </div>
 💻 Recent Activity
-<!--START_SECTION:activity--> <!--END_SECTION:activity-->
+
 <div align="center">
 ✨ Thanks for visiting my profile! ✨
-Show Image
-
 "Code is poetry written in logic" 💫
-
 </div>
-🎨 Animated Banners
-<div align="center">
-Show Image
 
-</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>
+<div align="bottom"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>
