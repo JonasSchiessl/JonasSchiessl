@@ -10,7 +10,7 @@
 <div align="center">
   <h3>👨‍💻 Upcoming Software Developer</h3>
   <div align="center">
-  <img src="./assets/terminal.gif" alt="Terminal Animation" width="600" />
+  <img src="https://iili.io/FYY3bI4.gif" alt="Terminal Animation" width="600" />
 </div>
 </div>
   <hr>
