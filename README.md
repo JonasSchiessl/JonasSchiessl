@@ -39,7 +39,11 @@ Show Image
 </div>
 <h3>📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonasSchiessl&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="GitHub Stats" />
+  <div align="center">
+    <img valign="top" src="https://github-readme-stats.vercel.app/api?username=JonasSchiessl&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="GitHub Stats" />
+    <img valign="top" width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JonasSchiessl&hide=HTML&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonasSchiessl&bg_color=0d1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Activity Graph" />
 </div>
